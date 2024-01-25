@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.team-matches-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.RCB {
+  background-color: #a4261d;
+}
+.KKR {
+  background-color: #5755a7;
+}
+.KXP {
+  background-color: #d91c1f;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.RR {
+  background-color: #da237b;
+}
+
+.MI {
+  background-color: #13418b;
+}
+.SH {
+  background-color: #f26d22;
+}
+.DC {
+  background-color: #4f5db0;
+}
+.clicked-banner-team {
+  height: 300px;
+  width: 80%;
+  padding-top: 10px;
+}

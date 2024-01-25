@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.team-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 40%;
+  height: 100px;
+  flex-grow: 1;
+  background-color: #ffffff33;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  margin: 10px;
+}
+.team-img {
+  height: 100px;
+  width: 100px;
+}
+.team-name {
+  font-family: 'bree serif';
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 300;
+  padding-top: 8px;
+  text-decoration: none;
+}
